@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-[English](README.md) · **Français**
+[English](README.md) · **Français** · [Español](README.es.md)
 
 Je crée des logiciels **libres, gratuits et sans publicité** pour Windows, macOS et le navigateur. Aucune télémétrie, aucun compte : ce que vous faites reste sur votre appareil.
 
@@ -13,7 +13,7 @@ Je crée des logiciels **libres, gratuits et sans publicité** pour Windows, mac
 | <img src="images/rjb.png" width="48" alt=""> | **[rJb](https://github.com/jeremdevgit/rjb)** | Windows | L'éclairage RGB de tous vos périphériques et composants dans une seule application légère. | français · 8 langues bientôt | [Télécharger](https://github.com/jeremdevgit/rjb/releases/latest) |
 | <img src="images/ludotheque.png" width="48" alt=""> | **[Ludothèque](https://github.com/jeremdevgit/ludotheque)** | macOS | Tous vos jeux au même endroit : Steam, Epic, GOG, Xbox, PlayStation, émulateurs… | français · 8 langues bientôt | [Télécharger](https://github.com/jeremdevgit/ludotheque/releases/latest) |
 | <img src="images/suite-libre.svg" width="48" alt=""> | **[Suite Libre](https://github.com/jeremdevgit/suite-libre)** | Navigateur | Six outils sans compte : QR codes, flou d'images, compression de photos, conversions, moyennes, mots de passe. | 🌐 8 langues | [Ouvrir](https://jeremdevgit.github.io/suite-libre/) |
-| <img src="images/batailles-de-france.svg" width="48" alt=""> | **[Batailles de France](https://github.com/jeremdevgit/batailles-de-france)** | Navigateur | Jeu de stratégie en temps réel sur les cartes de Lyon, Paris, Marseille, Bordeaux et Strasbourg. | français · 8 langues bientôt | [Jouer](https://github.com/jeremdevgit/batailles-de-france/releases/latest) |
+| <img src="images/batailles-de-france.svg" width="48" alt=""> | **[Batailles de France](https://github.com/jeremdevgit/batailles-de-france)** | Navigateur | Jeu de stratégie en temps réel sur les cartes de Lyon, Paris, Marseille, Bordeaux et Strasbourg. | 🌐 8 langues | [Jouer](https://github.com/jeremdevgit/batailles-de-france/releases/latest) |
 
 Chaque installateur remplace automatiquement la version précédente, et chaque version publiée est accompagnée de son empreinte SHA-256.
 
