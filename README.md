@@ -8,7 +8,7 @@ I build **free, open-source, ad-free** software for Windows, macOS and the web. 
 
 | | Software | For | In short | Languages | Install |
 |:-:|---|---|---|---|---|
-| <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Look after your computer without breaking anything: startup, cleanup, hidden settings, hardware, sensors, undoable history. | French · 8 languages coming soon | [Download](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
+| <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Look after your computer without breaking anything: startup, cleanup, hidden settings, hardware, sensors, undoable history. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
 | <img src="images/pomme.png" width="48" alt=""> | **[Pomme](https://github.com/jeremdevgit/pomme)** | Windows | A lightweight music player for Apple Music and local audio files: lyrics, equalizer, mini player. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/pomme/releases/latest) |
 | <img src="images/rjb.png" width="48" alt=""> | **[rJb](https://github.com/jeremdevgit/rjb)** | Windows | RGB lighting for all your peripherals and components in one lightweight app. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/rjb/releases/latest) |
 | <img src="images/ludotheque.png" width="48" alt=""> | **[Ludothèque](https://github.com/jeremdevgit/ludotheque)** | macOS | All your games in one place: Steam, Epic, GOG, Xbox, PlayStation, emulators… | 🌐 8 languages | [Download](https://github.com/jeremdevgit/ludotheque/releases/latest) |

@@ -8,7 +8,7 @@ Creo programas **libres, gratuitos y sin publicidad** para Windows, macOS y el n
 
 | | Programa | Para | En breve | Idiomas | Instalar |
 |:-:|---|---|---|---|---|
-| <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Cuida tu ordenador sin romper nada: inicio, limpieza, ajustes ocultos, hardware, sensores, historial reversible. | francés · 8 idiomas pronto | [Descargar](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
+| <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Cuida tu ordenador sin romper nada: inicio, limpieza, ajustes ocultos, hardware, sensores, historial reversible. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
 | <img src="images/pomme.png" width="48" alt=""> | **[Pomme](https://github.com/jeremdevgit/pomme)** | Windows | Reproductor ligero para Apple Music y archivos de audio locales: letras, ecualizador, minirreproductor. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/pomme/releases/latest) |
 | <img src="images/rjb.png" width="48" alt=""> | **[rJb](https://github.com/jeremdevgit/rjb)** | Windows | La iluminación RGB de todos tus periféricos y componentes en una sola aplicación ligera. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/rjb/releases/latest) |
 | <img src="images/ludotheque.png" width="48" alt=""> | **[Ludothèque](https://github.com/jeremdevgit/ludotheque)** | macOS | Todos tus juegos en un mismo lugar: Steam, Epic, GOG, Xbox, PlayStation, emuladores… | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/ludotheque/releases/latest) |
