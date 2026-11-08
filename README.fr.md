@@ -8,7 +8,7 @@ Je crée des logiciels **libres, gratuits et sans publicité** pour Windows, mac
 
 | | Logiciel | Pour | En bref | Langues | Installer |
 |:-:|---|---|---|---|---|
-| <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Garage chiffré : véhicules, dossiers clients, rappels, carnet d’entretien et carburant. | 🌐 8 langues | [Télécharger]({release}) |
+| <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Garage chiffré : véhicules, dossiers clients, rappels, carnet d’entretien et carburant. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/jmeca/releases/tag/v0.1.1-beta.2) |
 | <img src="images/carnet-de-notes.png" width="48" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Notes locales chiffrées, interface inspirée de Liquid Glass et synchronisation Joplin/Nextcloud expérimentale. | 🌐 8 langues | [Télécharger le ZIP](https://github.com/jeremdevgit/carnet-rust/releases/latest) |
 | <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Entretenir son ordinateur sans rien casser : démarrage, nettoyage, réglages cachés, matériel, capteurs, historique annulable. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
 | <img src="images/pomme.png" width="48" alt=""> | **[Pomme](https://github.com/jeremdevgit/pomme)** | Windows | Lecteur de musique léger pour Apple Music et les fichiers audio locaux : paroles, égaliseur, mini-lecteur. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/pomme/releases/latest) |
