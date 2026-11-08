@@ -4,10 +4,11 @@
 
 Je crée des logiciels **libres, gratuits et sans publicité** pour Windows, macOS et le navigateur. Aucune télémétrie. Les fonctions locales ne demandent pas de compte ; la synchronisation facultative envoie les données choisies au service configuré.
 
-🌐 **Disponibles en 8 langues** : français, anglais, espagnol, allemand, italien, portugais, chinois et japonais. Chaque logiciel suit la langue du système et permet d'en changer dans ses réglages.
+🌐 **Disponibles en 8 langues** : français, anglais, espagnol, allemand, italien, portugais, chinois et japonais. Chaque logiciel permet de choisir sa langue dans les réglages.
 
 | | Logiciel | Pour | En bref | Langues | Installer |
 |:-:|---|---|---|---|---|
+| <img src="images/decklight.png" width="48" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** | Windows · macOS · Linux | Deck virtuel léger et contrôle des touches USB des modèles compatibles. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/decklight/releases/tag/v0.1.0) |
 | <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Garage chiffré : véhicules, dossiers clients, rappels, carnet d’entretien et carburant. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/jmeca/releases/tag/v0.1.1-beta.2) |
 | <img src="images/carnet-de-notes.png" width="48" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Notes locales chiffrées, interface inspirée de Liquid Glass et synchronisation Joplin/Nextcloud expérimentale. | 🌐 8 langues | [Télécharger le ZIP](https://github.com/jeremdevgit/carnet-rust/releases/latest) |
 | <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Entretenir son ordinateur sans rien casser : démarrage, nettoyage, réglages cachés, matériel, capteurs, historique annulable. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |

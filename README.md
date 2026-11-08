@@ -4,10 +4,11 @@
 
 I build **free, open-source, ad-free** software for Windows, macOS and the web. No telemetry. Local features need no account; optional synchronization sends selected data to the service you choose.
 
-🌐 **Available in 8 languages**: English, French, Spanish, German, Italian, Portuguese, Chinese and Japanese — each app follows your system language and lets you switch in its settings.
+🌐 **Available in 8 languages**: English, French, Spanish, German, Italian, Portuguese, Chinese and Japanese — each app lets you switch language in its settings.
 
 | | Software | For | In short | Languages | Install |
 |:-:|---|---|---|---|---|
+| <img src="images/decklight.png" width="48" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** | Windows · macOS · Linux | Lightweight virtual Stream Deck and USB key control for supported models. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/decklight/releases/tag/v0.1.0) |
 | <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Encrypted vehicle maintenance, client folders, service log and fuel tracking. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/jmeca/releases/tag/v0.1.1-beta.2) |
 | <img src="images/carnet-de-notes.png" width="48" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Encrypted local notes with a Liquid Glass inspired interface and experimental Joplin/Nextcloud sync. | 🌐 8 languages | [Download ZIP](https://github.com/jeremdevgit/carnet-rust/releases/latest) |
 | <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Look after your computer without breaking anything: startup, cleanup, hidden settings, hardware, sensors, undoable history. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
