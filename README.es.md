@@ -8,7 +8,7 @@ Creo programas **libres, gratuitos y sin publicidad** para Windows, macOS y el n
 
 | | Programa | Para | En breve | Idiomas | Instalar |
 |:-:|---|---|---|---|---|
-| <img src="images/decklight.png" width="48" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** | Windows · macOS · Linux | Panel virtual ligero y control USB de teclas en modelos compatibles. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/decklight/releases/tag/v0.1.0) |
+| <img src="images/decklight.png" width="48" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** | Windows · macOS · Linux | Panel virtual, modelos USB compatibles e importación de perfiles Stream Deck. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/decklight/releases/tag/v0.2.0) |
 | <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Garaje cifrado: vehículos, clientes, recordatorios, historial y combustible. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/jmeca/releases/tag/v0.1.1-beta.2) |
 | <img src="images/carnet-de-notes.png" width="48" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Notas locales cifradas, interfaz inspirada en Liquid Glass y sincronización Joplin/Nextcloud experimental. | 🌐 8 idiomas | [Descargar ZIP](https://github.com/jeremdevgit/carnet-rust/releases/latest) |
 | <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Cuida tu ordenador sin romper nada: inicio, limpieza, ajustes ocultos, hardware, sensores, historial reversible. | 🌐 8 idiomas | [Descargar](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
