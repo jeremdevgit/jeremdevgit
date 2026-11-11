@@ -8,7 +8,7 @@ I build **free, open-source, ad-free** software for Windows, macOS and the web. 
 
 | | Software | For | In short | Languages | Install |
 |:-:|---|---|---|---|---|
-| <img src="images/autodex.png" width="48" alt=""> | **[AutoDex](https://github.com/jeremdevgit/autodex)** | Windows · macOS · Linux | Spot it, snap it, collect it: car collection game with on-device photo recognition. | — | [Repository](https://github.com/jeremdevgit/autodex) |
+| <img src="images/autodex.png" width="48" alt=""> | **[AutoDex](https://github.com/jeremdevgit/autodex)** | Windows · macOS · Linux · phone | Spot it, snap it, collect it: car collection game with on-device photo recognition. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/autodex/releases/tag/v0.1.0) |
 | <img src="images/decklight.png" width="48" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** | Windows · macOS · Linux | Virtual Stream Deck, supported USB models and Stream Deck profile import. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/decklight/releases/tag/v0.2.0) |
 | <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Encrypted vehicle maintenance, client folders, service log and fuel tracking. | 🌐 8 languages | [Download](https://github.com/jeremdevgit/jmeca/releases/tag/v0.1.1-beta.2) |
 | <img src="images/carnet-de-notes.png" width="48" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Encrypted local notes with a Liquid Glass inspired interface and experimental Joplin/Nextcloud sync. | 🌐 8 languages | [Download ZIP](https://github.com/jeremdevgit/carnet-rust/releases/latest) |
