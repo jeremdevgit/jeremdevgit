@@ -1,25 +1,33 @@
-### Bonjour 👋
+### Bonjour, moi c'est jeremdevgit 👋
 
-[English](README.md) · **Français** · [Español](README.es.md)
+<p><a href="README.md">English</a> · <b>Français</b> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.it.md">Italiano</a> · <a href="README.pt.md">Português</a> · <a href="README.zh.md">简体中文</a> · <a href="README.ja.md">日本語</a></p>
 
-Je crée des logiciels **libres, gratuits et sans publicité** pour Windows, macOS et le navigateur. Aucune télémétrie. Les fonctions locales ne demandent pas de compte ; la synchronisation facultative envoie les données choisies au service configuré.
+Je fais des **logiciels libres, gratuits et sans publicité** pour Windows, macOS, Linux et le navigateur. Aucune télémétrie, aucun compte pour les fonctions locales ; la synchronisation facultative ne parle qu'au service que vous choisissez. Toutes les apps existent en **8 langues**.
 
-🌐 **Disponibles en 8 langues** : français, anglais, espagnol, allemand, italien, portugais, chinois et japonais. Chaque logiciel permet de choisir sa langue dans les réglages.
+#### 🛠️ Système et matériel
 
-| | Logiciel | Pour | En bref | Langues | Installer |
-|:-:|---|---|---|---|---|
-| <img src="images/autodex.png" width="48" alt=""> | **[AutoDex](https://github.com/jeremdevgit/autodex)** | Windows · macOS · Linux · téléphone | Repérez, photographiez, collectionnez : jeu de collection de voitures avec reconnaissance de photos sur l'appareil. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/autodex/releases/tag/v0.1.0) |
-| <img src="images/decklight.png" width="48" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** | Windows · macOS · Linux | Deck virtuel, modèles USB compatibles et import de profils Stream Deck. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/decklight/releases/tag/v0.2.1) |
-| <img src="images/jmeca.png" width="48" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** | Windows · macOS · Linux | Garage chiffré : véhicules, dossiers clients, rappels, carnet d’entretien et carburant. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/jmeca/releases/tag/v0.1.1-beta.2) |
-| <img src="images/carnet-de-notes.png" width="48" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Notes locales chiffrées, interface inspirée de Liquid Glass et synchronisation Joplin/Nextcloud, chiffrement de bout en bout Joplin compris. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/carnet-rust/releases/tag/v0.5.0) |
-| <img src="images/boite-a-outils.png" width="48" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Entretenir son ordinateur sans rien casser : démarrage, nettoyage, réglages cachés, matériel, capteurs, historique annulable. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
-| <img src="images/pomme.png" width="48" alt=""> | **[Pomme](https://github.com/jeremdevgit/pomme)** | Windows | Lecteur de musique léger pour Apple Music et les fichiers audio locaux : paroles, égaliseur, mini-lecteur. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/pomme/releases/latest) |
-| <img src="images/rjb.png" width="48" alt=""> | **[rJb](https://github.com/jeremdevgit/rjb)** | Windows | L'éclairage RGB de tous vos périphériques et composants dans une seule application légère. | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/rjb/releases/latest) |
-| <img src="images/lj-hub.svg" width="48" alt=""> | **[LJ Hub](https://github.com/jeremdevgit/lj-hub)** | Windows · macOS · Linux | Profils locaux et inventaire Logitech ; commandes matérielles expérimentales sur les souris compatibles. Le RVB reste à rJb par défaut. | 🌐 8 langues | [Télécharger l'alpha](https://github.com/jeremdevgit/lj-hub/releases/tag/v0.1.3-alpha.1) |
-| <img src="images/ludotheque.png" width="48" alt=""> | **[Ludothèque](https://github.com/jeremdevgit/ludotheque)** | macOS | Tous vos jeux au même endroit : Steam, Epic, GOG, Xbox, PlayStation, émulateurs… | 🌐 8 langues | [Télécharger](https://github.com/jeremdevgit/ludotheque/releases/latest) |
-| <img src="images/suite-libre.svg" width="48" alt=""> | **[Suite Libre](https://github.com/jeremdevgit/suite-libre)** | Navigateur | Six outils sans compte : QR codes, flou d'images, compression de photos, conversions, moyennes, mots de passe. | 🌐 8 langues | [Ouvrir](https://jeremdevgit.github.io/suite-libre/) |
-| <img src="images/batailles-de-france.svg" width="48" alt=""> | **[Batailles de France](https://github.com/jeremdevgit/batailles-de-france)** | Navigateur | Jeu de stratégie en temps réel sur les cartes de Lyon, Paris, Marseille, Bordeaux et Strasbourg. | 🌐 8 langues | [Jouer](https://github.com/jeremdevgit/batailles-de-france/releases/latest) |
+| | Logiciel | Système | À quoi ça sert | Obtenir |
+|:-:|---|---|---|---|
+| <img src="images/boite-a-outils.png" width="40" alt=""> | **[Boîte à outils](https://github.com/jeremdevgit/boite-a-outils)** | Windows · macOS | Entretenir son ordinateur sans rien casser : nettoyage, démarrage, matériel, capteurs, recherche de fichiers — tout est annulable. | [Télécharger](https://github.com/jeremdevgit/boite-a-outils/releases/latest) |
+| <img src="images/rjb.png" width="40" alt=""> | **[rJb](https://github.com/jeremdevgit/rjb)** | Windows | L'éclairage RVB de tous vos périphériques et composants dans une seule application légère. | [Télécharger](https://github.com/jeremdevgit/rjb/releases/latest) |
+| <img src="images/lj-hub.svg" width="40" alt=""> | **[LJ Hub](https://github.com/jeremdevgit/lj-hub)** <sub>Alpha</sub> | Windows · macOS · Linux | Profils et inventaire locaux pour les périphériques Logitech, avec réglage expérimental du DPI et de la fréquence. | [Télécharger](https://github.com/jeremdevgit/lj-hub/releases) |
+| <img src="images/decklight.png" width="40" alt=""> | **[Decklight](https://github.com/jeremdevgit/decklight)** <sub>Préversion</sub> | Windows · macOS · Linux | Un Stream Deck virtuel et léger qui pilote les modèles USB pris en charge et importe les profils Stream Deck. | [Télécharger](https://github.com/jeremdevgit/decklight/releases) |
 
-Les installateurs remplacent automatiquement la version précédente lorsqu'ils sont proposés. Chaque version publiée est accompagnée de son empreinte SHA-256.
+#### 📒 Productivité et données
 
-Une idée, un problème ? Ouvrez un ticket dans le dépôt du logiciel concerné. Pour une faille de sécurité, utilisez le signalement privé (onglet **Security**).
+| | Logiciel | Système | À quoi ça sert | Obtenir |
+|:-:|---|---|---|---|
+| <img src="images/carnet-de-notes.png" width="40" alt=""> | **[Carnet de notes](https://github.com/jeremdevgit/carnet-rust)** | Windows | Des carnets chiffrés pour Windows : Markdown, tâches, historique et synchronisation expérimentale Nextcloud, WebDAV et Joplin. | [Télécharger](https://github.com/jeremdevgit/carnet-rust/releases/latest) |
+| <img src="images/jmeca.png" width="40" alt=""> | **[JMeca](https://github.com/jeremdevgit/jmeca)** <sub>Bêta</sub> | Windows · macOS · Linux | Un garage chiffré pour tous vos véhicules : entretien, rappels, carnet d'entretien, carburant et dépenses. | [Télécharger](https://github.com/jeremdevgit/jmeca/releases) |
+| <img src="images/suite-libre.svg" width="40" alt=""> | **[Suite Libre](https://github.com/jeremdevgit/suite-libre)** | Navigateur | Six outils du quotidien dans le navigateur, sans compte ni pistage : QR codes, floutage, photos, conversions, moyennes, mots de passe. | [Ouvrir](https://jeremdevgit.github.io/suite-libre/) |
+
+#### 🎮 Musique et jeux
+
+| | Logiciel | Système | À quoi ça sert | Obtenir |
+|:-:|---|---|---|---|
+| <img src="images/pomme.png" width="40" alt=""> | **[Pomme](https://github.com/jeremdevgit/pomme)** | Windows | Un lecteur de musique léger pour Apple Music et vos fichiers audio : paroles, égaliseur, mini-lecteur. | [Télécharger](https://github.com/jeremdevgit/pomme/releases/latest) |
+| <img src="images/ludotheque.png" width="40" alt=""> | **[Ludothèque](https://github.com/jeremdevgit/ludotheque)** | macOS | Tous vos jeux au même endroit sur Mac : Steam, Epic, GOG, Xbox, PlayStation, Nintendo, émulateurs et plus. | [Télécharger](https://github.com/jeremdevgit/ludotheque/releases/latest) |
+| <img src="images/autodex.png" width="40" alt=""> | **[AutoDex](https://github.com/jeremdevgit/autodex)** | Windows · macOS · Linux · téléphones (web) | Repérer, photographier, collectionner : un jeu de collection de voitures avec reconnaissance photo sur l'appareil. | [Télécharger](https://github.com/jeremdevgit/autodex/releases/latest) |
+| <img src="images/batailles-de-france.svg" width="40" alt=""> | **[Batailles de France](https://github.com/jeremdevgit/batailles-de-france)** | Navigateur | Un jeu de stratégie en temps réel dans le navigateur, sur les cartes de Lyon, Paris, Marseille, Bordeaux et Strasbourg. | [Télécharger](https://github.com/jeremdevgit/batailles-de-france/releases/latest) |
+
+Chaque version est livrée avec ses sommes SHA-256 ; les installateurs remplacent l'ancienne version. Une idée, un bug : ouvrez un ticket dans le dépôt de l'app. Une faille : utilisez le signalement privé (onglet **Security**).
